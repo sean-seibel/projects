@@ -1,2 +1,2 @@
 # projects
-Personal coding projects made by me, Sean Seibel
+My personal coding projects
