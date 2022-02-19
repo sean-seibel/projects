@@ -4,6 +4,8 @@ Small puzzle game about herding sheep, move all the sheep onto the grass and flo
 
 Features locally saved data, a file called ktf.save should show up in the folder the jar is in.
 
+Mac and Windows versions should run on those corresponding OS's, as long as you have Java 8+ installed, simply run the jar by double clicking, or through the Terminal/Command Prompt.
+
 Controls:
 
 - Mouse to navigate menus
