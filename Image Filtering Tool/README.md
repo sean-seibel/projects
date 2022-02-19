@@ -1,4 +1,4 @@
-Image Filtering Tool
+## Image Filtering Tool
 
 All controls work through pressing the GUI buttons.
 
