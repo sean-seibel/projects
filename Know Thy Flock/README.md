@@ -1,6 +1,6 @@
 ## Know Thy Flock
 
-Small puzzle game about herding sheep, move all the sheep onto the grass and flower tiles to win a level. The sheep move deterministically, but have different personalities. They may follow you, or other sheep, or go towards you, or go towards other sheep, and some can see farther than others.
+Small puzzle game about herding sheep, move all the sheep onto the grass and flower tiles to win a level. The sheep move deterministically, but have different personalities. They may follow you, or other sheep, or go towards you, or go towards other sheep, and some can see farther than others. Try for the lowest number of moves!
 
 Features locally saved data, a file called ktf.save should show up in the folder the jar is in.
 
