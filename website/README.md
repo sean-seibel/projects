@@ -1,5 +1,7 @@
 ## Currently hosted at: https://sean-seibel.github.io
 
+Code can be viewed in https://github.com/sean-seibel/sean-seibel.github.io
+
 ### Contains currently:
 
 #### Tic-Tac-Go, a simple original game, made using Javascript, HTMl, CSS:
