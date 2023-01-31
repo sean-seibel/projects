@@ -1,0 +1,12 @@
+Commands (after starting executable and seeing the board printed):
+- ([a-h][1-8]?[a-h][1-8]) : move the piece at the first square to the second square, if legal. Middle character can be anything. Ex: e2-e4, f1 b5
+- q : quit
+- undo : undo 1 move
+- ai : let the algorithm make a move
+- time : toggle display of time spent on previous move
+- eval : toggle display of evaluation of position
+- hist : print move history of this game
+- enum : prints all possible moves in the position
+- hope : prints all possible moves in order of what is most worthwhile to investigate
+- cast : prints castling rights for each side
+- ep : prints file onto which en passant is possible, if any
