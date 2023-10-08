@@ -5,7 +5,8 @@ Current line-up:
 
 ### Website --
 - https://sean-seibel.github.io
-- /cw Hosts Connect Whatever, a site for playing Connect-N games over the internet
+- Code at https://github.com/sean-seibel/sean-seibel.github.io
+- /cw Hosts Connect Whatever, a site for playing Connect-N games over the internet (code for backend at https://github.com/sean-seibel/cw-server)
 - /yousort Hosts YouSort, a site for designing and running sorting algorithms
 - / Hosts Tic-Tac-Go, a site with an interactable client-side abstract game
 
