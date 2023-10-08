@@ -3,6 +3,12 @@ My coding projects.
 
 Current line-up:
 
+### Website --
+- https://sean-seibel.github.io
+- /cw Hosts Connect Whatever, a site for playing Connect-N games over the internet
+- /yousort Hosts YouSort, a site for designing and running sorting algorithms
+- / Hosts Tic-Tac-Go, a site with an interactable client-side abstract game
+
 ### chess1 --
 
 - Chess interface, playable in an ANSI terminal
@@ -19,7 +25,3 @@ Current line-up:
   
 - Java application which allows the user to apply various filtering effects to their images, and save the results.
 - Developed collaboratively and tested rigorously using the JUnit testing library
-
-### Website --
-
-- Currently hosting a front-end game made with Javascript, HTML, and CSS
